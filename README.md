@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - my name is Zhao Yize.
-- 🔭 I am currently a senior student at Daegu Katori University.
+- 🔭 I am currently a senior student at DAEGU CATHOLIC UNIVERSITY.
 - 🌱 I’m currently learning to create a 'special' GitHub repository.
 - 🤔 I really enjoy the content I am learning now.
 - 😄 I enjoy hands-on practice.
