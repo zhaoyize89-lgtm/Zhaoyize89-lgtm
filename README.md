@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- my name is Zhao Yize.
+- 🔭 I am currently a senior student at Daegu Katori University.
+- 🌱 I’m currently learning to create a 'special' GitHub repository.
+- 🤔 I really enjoy the content I am learning now.
+- 😄 I enjoy hands-on practice.
+
+
+
 <!--
 **zhaoyize89-lgtm/Zhaoyize89-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
